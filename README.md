@@ -5,11 +5,12 @@ Insert your parts into the directory that has your name. The "Main Assembly" fol
 
 Part files should follow the following naming scheme:
 
-\{Designer Name} ### - \{Part Name}
+___\{Designer Name} ### - \{Part Name}___
 
 Example:
-Kody A 001 - Sawblade
+
+___Kody A 001 - Sawblade___
 
 Count part number in ascending order.
-- Regular parts will be numbered 001-099.
-- Assemblies will be numbered 100-199.
+- Regular parts will be numbered ___001-099.___
+- Assemblies will be numbered ___100-199.___
