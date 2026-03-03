@@ -4,4 +4,11 @@ Final design project for ME 231 (K. Almizyed, A. Pickert, J. Brusca, W. Kasalajt
 Insert your parts into the directory that has your name. The "Main Assembly" folder will be used to store all important assembly files to the project, including the full system assembly and any subsystems.
 
 Part files should follow the following naming scheme:
-<Designer Name> ### - <Part Name>
+\{Designer Name} ### - \{Part Name}
+
+Example:
+Kody A 001 - Sawblade
+
+Count part number in ascending order.
+- Regular parts will be numbered 001-099.
+- Assemblies will be numbered 100-199.
