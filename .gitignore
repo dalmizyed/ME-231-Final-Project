@@ -19,8 +19,8 @@
 *.tar.gz
 *.rar
 
-# Solidworks extra files
-~$*
+# Solidworks temp files
+*~$*
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
